@@ -2,7 +2,7 @@
     "version": 2,
     "builds": [
         {
-            "src": "Exercise-5---DRF-/wsgi.py",
+            "src": "Exercise-5---DRF--main/wsgi.py",
             "use": "@vercel/python",
             "config": {
                 "maxLambdaSize": "15mb",
